@@ -1,0 +1,6 @@
+if game.PlaceId == 9346039031 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/0nlyboss/nightfaII/main/Hello%20kitty"))()
+  end
+  if game.PlaceId == 648362523 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/broreallyplayingthisgame/Bird-Hub-Source/main/animedimension.lua"))()
+  end
